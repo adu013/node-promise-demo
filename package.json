@@ -1,0 +1,11 @@
+{
+  "name": "promise-demo",
+  "version": "1.0.0",
+  "description": "This is the simple demonstration to use node promise  ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "arindam",
+  "license": "MIT"
+}
